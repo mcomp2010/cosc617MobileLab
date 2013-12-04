@@ -34,6 +34,8 @@ end
 
 gem 'mobylette'
 gem 'jquery_mobile_rails'
+gem 'pg'
+#gem 'rails_12factor', group: :production
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
