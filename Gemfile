@@ -47,3 +47,4 @@ end
 gem 'mobylette'
 gem 'jquery_mobile_rails'
 gem 'pg'
+gem 'rails_12factor', group: :production
