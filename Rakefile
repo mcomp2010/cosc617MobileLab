@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Untitled::Application.load_tasks
+Cosc617MobileApp3::Application.load_tasks

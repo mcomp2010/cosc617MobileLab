@@ -32,11 +32,6 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-gem 'mobylette'
-gem 'jquery_mobile_rails'
-gem 'pg'
-#gem 'rails_12factor', group: :production
-
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
@@ -48,3 +43,7 @@ gem 'pg'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'mobylette'
+gem 'jquery_mobile_rails'
+gem 'pg'
